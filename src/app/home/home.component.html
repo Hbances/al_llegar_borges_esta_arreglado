@@ -1,0 +1,14 @@
+<div *ngFor="let item of data">
+  <img [src]="item.imagen"/>
+  <h1>{{item.titulo}}</h1>
+  <p *ngFor="let paragraph of item.historia">{{ paragraph }}</p>
+  <h1>{{ item.localisasion1 }}</h1>
+  <img [src]="item.localisasion" class="small-img" />
+  
+  <div class="localidadpr" >
+    <a>LOCALIDAD: {{item.localidad }}</a>
+    <a>DIRRECCION: {{item.direccion }}</a>
+    <a>CONTACTO : {{item.contacto }}</a>
+    <a>EMAIL : {{item.email }}</a>
+  </div>
+</div>

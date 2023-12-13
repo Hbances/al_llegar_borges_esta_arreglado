@@ -1,0 +1,36 @@
+h1 {
+    margin-left: 56%;
+    font-family: "Courier New", Courier, monospace;
+  }
+  
+  p {
+    margin-left: 45%;
+    font-family: "Courier New", Courier, monospace;
+    text-align: justify;
+    margin-right: 2%;
+  }
+  
+  img {
+    width: 42%;
+    height: auto;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%; 
+    border-radius: 2%;
+  }
+
+  a{
+    margin-left: 10px;
+    margin-bottom: 5px;
+    display :flex;
+  }
+
+  .small-img{
+    width: 15%;
+    margin-left: 2%;
+    margin-top: auto;
+  }
+
+  .localidadpr{
+    padding-left: 950px;
+  }

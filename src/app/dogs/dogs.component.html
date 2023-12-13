@@ -1,0 +1,7 @@
+<div *ngFor="let item of data; let id = index" class="pet-container">
+    <!-- solo mostrar perros -->
+    <div *ngIf="item.type ==='dog'">
+      <img [src]="item.main_image" class="rounded float-start" style="width: 200px;" [routerLink]="['/pet', id]">
+      <p>{{item.name}}</p>
+    </div>
+  </div>

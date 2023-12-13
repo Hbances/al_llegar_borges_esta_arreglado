@@ -1,0 +1,17 @@
+[
+  {
+    "imagen": "assets/img/Home1.jpeg",
+    "titulo": "HISTORIA",
+    "historia": [
+      "En las tranquilas colinas que rodean la ciudad, se encuentra Patitas Amigas, una protectora de animales comprometida con el bienestar de las criaturas indefensas. Fundada hace más de una década por un grupo apasionado de amantes de los animales,",
+      "la organización se ha convertido en un refugio acogedor para perros y gatos sin hogar. Con un equipo dedicado de voluntarios y veterinarios, Patitas Amigas se esfuerza por proporcionar atención médica, amor y refugio seguro a cada huésped de cuatro patas que cruza sus puertas.",
+      "La misión de la protectora va más allá de simplemente dar refugio; trabajan incansablemente para concientizar a la comunidad sobre la adopción responsable y la importancia de la esterilización para controlar la población de animales sin hogar. Cada animal que llega a Patitas Amigas es tratado con cuidado individualizado, recibiendo atención médica personalizada y la oportunidad de encontrar un hogar amoroso."
+    ],
+    "localisasion1": "LOCALITZACION",
+    "localisasion": "assets/img/maps.png",
+    "localidad": "LLEIDA",
+    "direccion": "C. LA BAZA LESBORGUES BLANQUES Nº26 ",
+    "contacto": "+34 664 140 469",
+    "email": "patitasamigas@gmail.com"
+  }
+]

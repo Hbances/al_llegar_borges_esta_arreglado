@@ -1,0 +1,125 @@
+{
+    "pets": [
+        {
+            "name": " RODOLFO",
+            "type": "cat",
+            "main_image": "assets/img/cat1.jpg",
+            "carousel_imgs": ["img1_url", "img2_url", "img3_url"],
+            "biography": ["paragraph1", "paragraph2", "paragraph3"],
+            "sex": "female",
+            "birthdate": "2019-05-23",
+            "age": 2,
+            "chip": "yes or no",
+            "vaccines": ["vaccine1", "vaccine2"],
+            "diseases": ["disease1", "disease2"],
+            "observations": ["paragraph1", "paragraph2", "paragraph3"]
+        },{
+            
+                "name": "DRACO",
+                "type": "dog",
+                "main_image": "assets/img/draco.jpg",
+                "carousel_imgs": ["img1_url", "img2_url", "img3_url"],
+                "biography": ["paragraph1", "paragraph2", "paragraph3"],
+                "sex": "male or female",
+                "birthdate": "2019-05-23",
+                "age": 2,
+                "chip": "yes or no",
+                "vaccines": ["vaccine1", "vaccine2"],
+                "diseases": ["disease1", "disease2"],
+                "observations": ["paragraph1", "paragraph2", "paragraph3"]
+            
+        },
+        {
+            
+            "name": " JULIO",
+            "type": "cat",
+            "main_image": "assets/img/julio.jpg",
+            "carousel_imgs": ["img1_url", "img2_url", "img3_url"],
+            "biography": ["paragraph1", "paragraph2", "paragraph3"],
+            "sex": "male",
+            "birthdate": "2019-05-23",
+            "age": 2,
+            "chip": "yes or no",
+            "vaccines": ["vaccine1", "vaccine2"],
+            "diseases": ["disease1", "disease2"],
+            "observations": ["paragraph1", "paragraph2", "paragraph3"]
+        
+        },{
+            
+            "name": "BRUNNITO",
+            "type": "dog",
+            "main_image": "assets/img/buldog.jpg",
+            "carousel_imgs": ["img1_url", "img2_url", "img3_url"],
+            "biography": ["paragraph1", "paragraph2", "paragraph3"],
+            "sex": "male or female",
+            "birthdate": "2019-05-23",
+            "age": 2,
+            "chip": "yes or no",
+            "vaccines": ["vaccine1", "vaccine2"],
+            "diseases": ["disease1", "disease2"],
+            "observations": ["paragraph1", "paragraph2", "paragraph3"]
+        
+        },{
+            
+            "name": "MATILDA",
+            "type": "cat",
+            "main_image": "assets/img/matilda.jpg",
+            "carousel_imgs": ["img1_url", "img2_url", "img3_url"],
+            "biography": ["paragraph1", "paragraph2", "paragraph3"],
+            "sex": "female",
+            "birthdate": "2019-05-23",
+            "age": 2,
+            "chip": "yes or no",
+            "vaccines": ["vaccine1", "vaccine2"],
+            "diseases": ["disease1", "disease2"],
+            "observations": ["paragraph1", "paragraph2", "paragraph3"]
+        
+        },{
+            
+            "name": "VEGETA",
+            "type": "dog",
+            "main_image": "assets/img/puppy.jpg",
+            "carousel_imgs": ["img1_url", "img2_url", "img3_url"],
+            "biography": ["paragraph1", "paragraph2", "paragraph3"],
+            "sex": "male or female",
+            "birthdate": "2019-05-23",
+            "age": 2,
+            "chip": "yes or no",
+            "vaccines": ["vaccine1", "vaccine2"],
+            "diseases": ["disease1", "disease2"],
+            "observations": ["paragraph1", "paragraph2", "paragraph3"]
+        
+        },{
+            
+            "name": "ROMEO",
+            "type": "cat",
+            "main_image": "assets/img/doris.jpg",
+            "carousel_imgs": ["img1_url", "img2_url", "img3_url"],
+            "biography": ["paragraph1", "paragraph2", "paragraph3"],
+            "sex": "male or female",
+            "birthdate": "2019-05-23",
+            "age": 2,
+            "chip": "yes or no",
+            "vaccines": ["vaccine1", "vaccine2"],
+            "diseases": ["disease1", "disease2"],
+            "observations": ["paragraph1", "paragraph2", "paragraph3"]
+        
+        },{
+            
+            "name": "MAX",
+            "type": "dog",
+            "main_image": "assets/img/max.jpg",
+            "carousel_imgs": ["img1_url", "img2_url", "img3_url"],
+            "biography": ["paragraph1", "paragraph2", "paragraph3"],
+            "sex": "male or female",
+            "birthdate": "2019-05-23",
+            "age": 2,
+            "chip": "yes or no",
+            "vaccines": ["vaccine1", "vaccine2"],
+            "diseases": ["disease1", "disease2"],
+            "observations": ["paragraph1", "paragraph2", "paragraph3"]
+        
+        }
+
+    ]
+}
